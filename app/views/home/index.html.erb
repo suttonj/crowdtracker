@@ -1,0 +1,9 @@
+<h1>First post:</h1>
+<p> Post: <%= @firstpost %></p>
+<p> Location: <%= @location %> </p>
+<p> 2Post: <%= @tweet %></p>
+<p> Long: <%= @long %></p>
+<p> Lat: <%= @lat %></p>
+<% @tweets.each do |tweet| %>
+<p> <%= tweet.text %> </p>
+<% end %>
