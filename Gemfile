@@ -27,7 +27,12 @@ end
 gem 'jquery-rails'
 gem 'json'
 gem 'twitter'
+gem 'tweetstream'
 gem 'figaro'
+gem 'engtagger'
+gem 'factory_girl'
+gem 'fuzzily'
+gem 'redis-rails', '~> 3.2.3'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
