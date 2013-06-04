@@ -1,12 +1,15 @@
-class HomeController < ApplicationController
+class TweetController < ApplicationController
 
-	before_filter :twitter_auth
+	def index
+		TweetStream::Client.new.track('ocean club', 'armin') do |status|
+		  puts "#{status.text}"
+		end
+	end
 
-  	def index
-  		
-  		@firstpost = Twitter.user_timeline("developerworks").first.text
+	private
 
-	  	long = -71.0603
+	def twitter_search_locations
+		long = -71.0603
 	  	lat  = 42.3583
 	  	
 	  	#@locations = Location.pluck(:name)
@@ -38,5 +41,5 @@ class HomeController < ApplicationController
 			  	end
 		  	end
 		end
-  	end
+	end
 end

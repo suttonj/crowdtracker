@@ -1,0 +1,165 @@
+@ericprydz just crushing it at ocean club incredible live show https://t.co/RTFIQ2yEBA
+#DearJesse I met you at the house of blues in Cleveland in 2008, the show was amazing and I love you so much! @JesseMcCartney NOTICE ME
+But Hollywood Undead will be here next month at House of Blues. 🙌🙌🙌 and Ozzy Osbourne will be here too!
+Ce soir on retrouve Darren pour son 3ème concert, à Dallas au House of Blues, trop hâte de voir comment il sera... http://t.co/dOAD3cCKMX
+House Of Blues LA. #preppin *pic by Jake Troth* http://t.co/cHsHehbNcC
+Photo posté par Darren sur son Facebook :
+"PICTURES: House of Blues: Sunset Strip - http://t.co/RSTXODhEMt" http://t.co/cUnrBv0ryK
+RT @AirDubai: Photo: #NOISETOUR VIDEO BLOG PT. 1 // COMING VERY SOON! (at House of Blues Myrtle Beach) http://t.co/rec5uYnGmj
+@Amanduhlogan @emmersss12 @ajelledge @Sup_Jake814 @ASurb23 @milkdudzzz2 btw paradise ocean club Friday 😎
+RT @Blackpatkid: See Black Pat Live at HOUSE OF BLUES June 12th!!!
+/home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:436:in `block in connect': Failed to reconnect after 6 tries. (TweetStream::ReconnectError)
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `invoke_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:268:in `rescue in schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:263:in `schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:93:in `unbind'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:1440:in `event_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run_machine'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:388:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:49:in `block in start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `block in start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call_as_daemon'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:259:in `start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:296:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/controller.rb:83:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:197:in `block in run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `catch_exceptions'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:196:in `run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:48:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:131:in `filter'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:98:in `track'
+	from script/track_location.rb:28:in `block in <top (required)>'
+	from script/track_location.rb:27:in `each'
+	from script/track_location.rb:27:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `eval'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+	from script/rails:6:in `require'
+	from script/rails:6:in `<main>'
+Gonna see  @janoskians June13 house of blues 😳 omg 💙💛❤🙈🙊🙉 #followback  @JaiBrooks1 @BrooksBeau @James_Yammouni @JaiBrooks1 @danielsahyounie
+@fbgmoni im not sure i usually buy tickets for house of blues on ticketmaster
+/home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:436:in `block in connect': Failed to reconnect after 6 tries. (TweetStream::ReconnectError)
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `invoke_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:268:in `rescue in schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:263:in `schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:93:in `unbind'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:1440:in `event_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run_machine'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:388:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:49:in `block in start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `block in start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call_as_daemon'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:259:in `start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:296:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/controller.rb:83:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:197:in `block in run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `catch_exceptions'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:196:in `run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:48:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:131:in `filter'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:98:in `track'
+	from script/track_location.rb:28:in `block in <top (required)>'
+	from script/track_location.rb:27:in `each'
+	from script/track_location.rb:27:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `eval'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+	from script/rails:6:in `require'
+	from script/rails:6:in `<main>'
+Ocean club did us good #enoughsaid #iloveyou 💛 dreisner3 http://t.co/BMx4Lupuv3
+@Kaeno hey man great set tonight at ocean club #awesome #gotthepartystarted
+Train hardly for Asian Ocean Ultimate Club Championship (AOUCC) @_@
+☀🎉🍸🌊 @ Ocean Club Marbella http://t.co/1DnzNNrpwF
+Ibiza ocean club☀👙👯😎✈🎵❤ #8weeeeeeeeks @nkennedy__x http://t.co/SPpyCvhtlr
+Glees Darren Criss at House of Blues: http://t.co/LcwGDVFERV
+@arl1024 we don't have access to set times usually. Your best bet will be to call the House of Blues Phone Ambassador at 617.960.8315
+Photoset: LOS ANGELES, CA- May 30, 2013: Darren Criss performs live at the House of Blues - Sunset Strip in... http://t.co/uiu9do74OD
+Amigaaaaaaaa...❤🍻❤🍻 @ Ocean Club at Marina Bay http://t.co/ZybTu79fEC
+Recognize a real Don when you see one, Sippin on booze in the House of Blues
+RT @DarrenCriss: Some more tix for tonights show at House of Blues in Anaheim have just been made available. http://t.co/7vhY8aFaOp . Disne…
+@NSR199 Antonio! Tickets are now on sale here for The Roxy show + you get FREE House of Blues tickets! Check it out: http://t.co/36okgKtQnm
+/home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:436:in `block in connect': Failed to reconnect after 6 tries. (TweetStream::ReconnectError)
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `invoke_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:268:in `rescue in schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:263:in `schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:93:in `unbind'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:1440:in `event_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run_machine'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:388:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:49:in `block in start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `block in start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call_as_daemon'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:259:in `start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:296:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/controller.rb:83:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:197:in `block in run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `catch_exceptions'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:196:in `run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:48:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:131:in `filter'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:98:in `track'
+	from script/track_location.rb:28:in `block in <top (required)>'
+	from script/track_location.rb:27:in `each'
+	from script/track_location.rb:27:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `eval'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+	from script/rails:6:in `require'
+	from script/rails:6:in `<main>'
+@elenizoe I love you for using Shakespeare. :-) Doctor Who is my go-to, but Waking Ned Devine or Best Marigold Hotel are good too.
+Waking Ned Devine... Florida and nation wonders... Who Won...
+http://t.co/xIl3krcq2B
+#lottery #mystery
+/home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:436:in `block in connect': Failed to reconnect after 6 tries. (TweetStream::ReconnectError)
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:296:in `invoke_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:268:in `rescue in schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:263:in `schedule_reconnect'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/em-twitter-0.2.2/lib/em-twitter/connection.rb:93:in `unbind'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:1440:in `event_callback'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run_machine'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:388:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:49:in `block in start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:255:in `block in start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/daemonize.rb:82:in `call_as_daemon'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:259:in `start_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/application.rb:296:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/controller.rb:83:in `run'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:197:in `block in run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `call'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons/cmdline.rb:109:in `catch_exceptions'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/daemons-1.1.9/lib/daemons.rb:196:in `run_proc'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/daemon.rb:48:in `start'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:131:in `filter'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/tweetstream-2.5.0/lib/tweetstream/client.rb:98:in `track'
+	from script/track_location.rb:28:in `block in <top (required)>'
+	from script/track_location.rb:27:in `each'
+	from script/track_location.rb:27:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `eval'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands/runner.rb:51:in `<top (required)>'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+	from /home/greenrice/.rvm/gems/ruby-1.9.3-p392@crowdtracker/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+	from script/rails:6:in `require'
+	from script/rails:6:in `<main>'
+Waking Ned Devine
