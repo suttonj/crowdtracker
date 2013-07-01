@@ -17,4 +17,8 @@ end
 
 FactoryGirl.create(:location, :name => "ocean club")
 FactoryGirl.create(:location, :name => "house of blues")
-FactoryGirl.create(:location, :name => "ned devine")
+FactoryGirl.create(:location, :name => "ned devine's")
+
+FactoryGirl.create(:location, :name => "governor's ball")
+FactoryGirl.create(:location, :name => "gov ball")
+FactoryGirl.create(:location, :name => "randall island")

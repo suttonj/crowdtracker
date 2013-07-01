@@ -22,10 +22,20 @@ class ApplicationController < ActionController::Base
 
   end
 
+  def init_engtagger(locations)
+    $tgr = EngTagger.new
+    
+    #locations = Location.all
+    locations.each do |loc|
+      $tgr.classify_unknown_word(loc.name)
+    end
+
+  end
+
   def engtagger(text)
-  	tgr = EngTagger.new
-  	tagged = tgr.add_tags(text)
-  	@nouns = tgr.get_nouns(tagged)
-  	@words = tgr.get_words(text)
+  	#tgr = EngTagger.new
+  	#tagged = tgr.add_tags(text)
+  	#@nouns = tgr.get_proper_nouns(tagged)
+  	@words = $tgr.get_words(text)
   end
 end
